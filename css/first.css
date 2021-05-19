@@ -1,0 +1,69 @@
+body{
+    font-family:Comic Sans MS;
+      background-color: #D5FFD5;
+    
+    
+    
+    
+    
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    p{
+    
+    font-size: 25px;
+    
+    
+    }
+    
+    
+    
+    #scores{
+    position:absolute;
+      top: 5px;
+      left: 5px;
+      font-size: 20px;
+    
+    
+    }
+    
+    
+    
+    
+    .btn{
+    font-size: 25px;
+    margin-right: 25px;
+      width: 50px;
+      height: 50px;
+    border: 2px solid black;
+      border-radius: 5px;
+      background-color: #ADFFAD;
+      cursor: pointer;
+    
+    
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    #main{
+    
+      padding: 10px;
+      text-align: center;
+    
+    }
+
+
+
+
